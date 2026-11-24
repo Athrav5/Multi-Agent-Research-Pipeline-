@@ -55,5 +55,4 @@ make lint
 ## Important note
 This repository currently contains a starter skeleton. The agent implementation, real evaluation cases, and production deployment configuration still need to be completed. Do not treat the placeholder eval dataset as meaningful benchmark results.
 
-## Source and attribution
-This project is based on the public starter project in [AdilShamim8/GenAI-Roadmap-with-Notes-and-Projects](https://github.com/AdilShamim8/GenAI-Roadmap-with-Notes-and-Projects/tree/main/projects/05-multi-agent-research-pipeline). Please review the original repository's license and retain required attribution before redistributing or presenting this as your own work.
+
